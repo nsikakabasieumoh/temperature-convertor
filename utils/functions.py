@@ -10,4 +10,10 @@ def convertor(value:float, param1, param2) -> float:
     if param1 not in ['C', 'F', 'K'] or param2 not in ['C', 'F', 'K']:
         return None
     else:
-        return 0.00
+        if param1 == 'C':
+            if param2 == 'F':
+                return 1.8 * value + 32
+            elif param2 == 'K':
+                return value + 273.15
+            else:
+                return value
