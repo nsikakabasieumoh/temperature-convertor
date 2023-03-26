@@ -7,7 +7,9 @@ def convertor(value:float, param1, param2) -> float:
     :return: returns the output value as float
     """
 
-    if param1 not in ['C', 'F', 'K'] or param2 not in ['C', 'F', 'K']:
+    unit_list = ['C', 'F', 'K']
+
+    if param1 not in unit_list or param2 not in unit_list:
         return None
     else:
         if param1 == 'C':
