@@ -1,9 +1,9 @@
 # Temperature Convertor
 
-![GitHub last commit](https://img.shields.io/github/last-commit/nsikakabasieumoh/temperature_convertor)
-![GitHub](https://img.shields.io/github/license/nsikakabasieumoh/temperature_convertor)
-![contributors](https://img.shields.io/github/contributors/nsikakabasieumoh/temperature_convertor)
-![codesize](https://img.shields.io/github/languages/code-size/nsikakabasieumoh/temperature_convertor)
+![GitHub last commit](https://img.shields.io/github/last-commit/nsikakabasieumoh/temperature-convertor)
+![GitHub](https://img.shields.io/github/license/nsikakabasieumoh/temperature-convertor)
+![contributors](https://img.shields.io/github/contributors/nsikakabasieumoh/temperature-convertor)
+![codesize](https://img.shields.io/github/languages/code-size/nsikakabasieumoh/temperature-convertor)
 
 Building a basic temperature convertor. I am building this project to test my understanding of functions, loops, list and dictionaries.
 
